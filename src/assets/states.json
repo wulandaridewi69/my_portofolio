@@ -1,0 +1,36 @@
+{
+    "states": [
+        {
+            "state": "Arizona",
+            "electors": 11
+        },
+        {
+            "state": "Florida",
+            "electors": 29
+        },
+        {
+            "state": "Iowa",
+            "electors": 6
+        },
+        {
+            "state": "Michigan",
+            "electors": 16
+        },
+        {
+            "state": "North Carolina",
+            "electors": 15
+        },
+        {
+            "state": "Ohio",
+            "electors": 18
+        },
+        {
+            "state": "Pennsylvania",
+            "electors": 20
+        },
+        {
+            "state": "Wisconsin",
+            "electors": 10
+        }
+    ]
+}
